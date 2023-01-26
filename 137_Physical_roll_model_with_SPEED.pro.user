@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE QtCreatorProject>
-<!-- Written by QtCreator 7.0.2, 2022-11-28T10:04:36. -->
+<!-- Written by QtCreator 7.0.2, 2023-01-26T21:29:24. -->
 <qtcreator>
  <data>
   <variable>EnvironmentId</variable>
@@ -238,8 +238,9 @@
     <valuelist type="QVariantList" key="CustomOutputParsers"/>
     <value type="int" key="PE.EnvironmentAspect.Base">2</value>
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.Qt4RunConfiguration:/Users/fox/雪狸的文件/Programma/OpenGL/137_Physical_roll_model_with_SPEED/137_Physical_roll_model_with_SPEED.pro</value>
-    <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">/Users/fox/雪狸的文件/Programma/OpenGL/137_Physical_roll_model_with_SPEED/137_Physical_roll_model_with_SPEED.pro</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">137_Physical_roll_model_with_SPEED2</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.Qt4RunConfiguration:/Users/fox/雪狸的文件/Programma/OpenGL-physical-scrolling/137_Physical_roll_model_with_SPEED.pro</value>
+    <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">/Users/fox/雪狸的文件/Programma/OpenGL-physical-scrolling/137_Physical_roll_model_with_SPEED.pro</value>
     <value type="bool" key="RunConfiguration.UseCppDebugger">false</value>
     <value type="bool" key="RunConfiguration.UseCppDebuggerAuto">true</value>
     <value type="bool" key="RunConfiguration.UseLibrarySearchPath">true</value>
